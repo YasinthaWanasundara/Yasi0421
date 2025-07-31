@@ -48,7 +48,7 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yasi0421&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/YasinthaWanasundara/yasi0421">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yasi0421&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://drive.google.com/file/d/1pVDACan3S5gZCQvy5SBG-bJHnaKtFRY6/view?usp=drive_link"/>
   </a>
 </p>
 
